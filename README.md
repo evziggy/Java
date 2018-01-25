@@ -7,3 +7,5 @@ Flip - Initializes two int variables called headCount and tailCount to zero. Cre
 #
 Calculator - program use classes, methods, and objects to create a simple arithmetic calculator
 #
+Droid- A simple Droid (robot) that can be activated, charged, and hover above ground. 
+#
